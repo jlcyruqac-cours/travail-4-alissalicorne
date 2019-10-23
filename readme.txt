@@ -8,8 +8,6 @@ j'envoie un formulaire avec les informations Prenom, Nom et Date. J'utilise la
 methode post. Avec les elements, je render une section twig avec les elements
 recus. Ensuite, j'opere sur ces elements pour afficher le bon horoscope.
 
-A noter que mes fichiers remis contiennent deja le dossier vendor.
-
 Une fois le serveur lance, vous pouvez aller sur
 http://localhost:80 ou http://127.0.0.1:80
 
