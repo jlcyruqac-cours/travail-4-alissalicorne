@@ -1,0 +1,56 @@
+REQUIREMENTS
+Alissa Bonnel
+BONA25589603
+********************************************************************************
+Avoir sur son ordinateur:
+- PHP
+- Composer
+- Twig
+********************************************************************************
+
+
+
+********************************************************************************
+ETAPE 1
+********************************************************************************
+Installer le Zip de PHP en allant sur:
+https://windows.php.net/download
+
+
+
+********************************************************************************
+ETAPE 2
+********************************************************************************
+Installer Composer (pour installer Twig):
+- Telecharger le setup.exe https://getcomposer.org/download/
+- Se mettre a la racine du projet.
+- Ensuite, taper en cmd: composer init
+- le Package name: lab3/twig. Le reste, ne rien mettre, dire "non" et "oui" a la toute fin
+- Ensuite...
+
+
+
+********************************************************************************
+ETAPE 3
+********************************************************************************
+Installer Twig:
+taper en cmd:
+composer require "twig/twig:^2.0"
+Note: voir https://twig.symfony.com/
+
+
+
+********************************************************************************
+ETAPE 4
+********************************************************************************
+Lancer PHP. en cmd:
+taper:		php -S 127.0.0.1:80 -t C:chemin-vers-le-projet
+exemple:	php -S 127.0.0.1:80 -t C:\Users\Alissa\Desktop\reseaux\lab3\projet
+
+
+
+********************************************************************************
+ETAPE 5
+********************************************************************************
+Ouvrir votre navigateur et aller sur:
+http://127.0.0.1:80

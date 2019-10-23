@@ -1,0 +1,12 @@
+{
+    "name": "lab3/twig",
+    "authors": [
+        {
+            "name": "alissatom",
+            "email": "32532106+alissatom@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
